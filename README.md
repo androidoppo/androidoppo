@@ -1,5 +1,4 @@
 translation
-反訳
 programming at home
 Living in Japan
 I am programming with chat gpt
